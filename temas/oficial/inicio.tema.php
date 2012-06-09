@@ -8,7 +8,7 @@ class template{
 		global $default;
 		
 		echo'<h1>Script Limpio</h1>';
-
+       echo'<h1>Chao Mundo</h1>';
 	}
 	
 
