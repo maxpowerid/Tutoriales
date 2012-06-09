@@ -7,7 +7,7 @@ class template{
 	function index_vista(){
 		global $default;
 		
-		echo'<h1>Script Limpio</h1>';
+		echo'<h1>Hola Mundo...</h1>';
 
 	}
 	
