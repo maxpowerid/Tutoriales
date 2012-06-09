@@ -59,7 +59,7 @@ global $default,$act;
 	<div id="cuerpo">
 		<div id="contenido">
 
-
+MAURO <H1>FEO</H1>
 <?php
 }
 
