@@ -16,7 +16,7 @@ global $default,$act;
 				
 				weburl:'<?php echo $default['weburl']; ?>',
 				webname:'<?php echo $default['webname']; ?>',
-				
+				time:'<?php echo time(); ?>',
 		}
 	</script>
 	<link href='http://fonts.googleapis.com/css?family=Pompiere' rel='stylesheet' type='text/css'>
